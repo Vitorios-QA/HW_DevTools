@@ -1,7 +1,7 @@
 ## $${\color{#28B5B1}DEVTOOLS}$$
 ___
 
-## [My DevTools video](https://www.youtube.com/watch?v=ewmn740Q88Q&t=380s) :movie_camera:
+## [My DevTools video](https://docs.google.com/document/d/1TGX8KMkhJ9_gilUxhL0u8gKNRqZah167qQM5g-c6YfA/edit) :movie_camera:
 
 ### My steps in the video:
 
